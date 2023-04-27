@@ -1,0 +1,12 @@
+D:\Notepad-2.0- Winforms\Notepad_2.0\bin\Debug\Notepad_2.0.exe.config
+D:\Notepad-2.0- Winforms\Notepad_2.0\bin\Debug\Notepad_2.0.exe
+D:\Notepad-2.0- Winforms\Notepad_2.0\bin\Debug\Notepad_2.0.pdb
+D:\Notepad-2.0- Winforms\Notepad_2.0\bin\Debug\Guna.UI2.dll
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.csproj.AssemblyReference.cache
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2._0.NotepadApp.resources
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2._0.Properties.Resources.resources
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.csproj.GenerateResource.cache
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.csproj.CoreCompileInputs.cache
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.csproj.CopyComplete
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.exe
+D:\Notepad-2.0- Winforms\Notepad_2.0\obj\Debug\Notepad_2.0.pdb
