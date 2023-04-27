@@ -19,7 +19,7 @@
 ## How to use
 
 - Extract the ZIP file to a folder of your choice.
-- Double-click on the SimpleNoteTaker.exe file to launch the application.
+- Double-click on the NotepadApp.exe file to launch the application.
 - Create new notes entering a title and a body and pressing "Save"
 - Edit notes by selecting them in the list and clicking on the "New Note" button.
 - Delete notes by selecting them in the list and clicking on the "Delete" button.
