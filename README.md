@@ -1,9 +1,9 @@
-# Simple Note Taker
-## Simple Note Taker is a Windows application built using C#, WinForms and GUNA.UI. It is designed to help you quickly create, edit, and delete notes. It provides a simple and intuitive interface to store information or ideas without much thought, just like the built-in note taking apps in most operating systems.
+## Simple Note Taker
+Simple Note Taker is a Windows application built using C#, WinForms and GUNA.UI. It is designed to help you quickly create, edit, and delete notes. It provides a simple and intuitive interface to store information or ideas without much thought, just like the built-in note taking apps in most operating systems.
 
 
 ## Screenshots
-### Here are some screenshots of the application:
+Here are some screenshots of the application:
 
 ![1](https://user-images.githubusercontent.com/61797706/234908495-6f9195aa-d3a1-49f7-ae29-f20d9d338a07.PNG)
 ![2](https://user-images.githubusercontent.com/61797706/234908507-46ee3a15-ddd4-4206-aef9-39ac8e15aee9.PNG)
