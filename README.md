@@ -1,5 +1,5 @@
-## Simple Note Taker
-Simple Note Taker is a Windows application built using C#, WinForms and GUNA.UI. It is designed to help you quickly create, edit, and delete notes. It provides a simple and intuitive interface to store information or ideas without much thought, just like the built-in note taking apps in most operating systems.
+## Notebook 2.0
+Notebook 2.0 is a Windows application built using C#, WinForms and GUNA.UI. It is designed to help you quickly create, edit, and delete notes. It provides a simple and intuitive interface to store information or ideas without much thought, just like the built-in note taking apps in most operating systems.
 
 
 ## Screenshots
